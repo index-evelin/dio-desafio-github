@@ -1,1 +1,0 @@
-git status - mostra o status do nosso arquivo;
