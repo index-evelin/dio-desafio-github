@@ -1,0 +1,16 @@
+- TRANSISTORES:
+
+"Transistor é um dispositivo semicondutor usado para amplificar ou atenuar a intensidade da corrente elétrica em circuitos eletrônicos. Os transistores são como blocos fundamentais na construção de todos os dispositivos eletrônicos modernos, sendo usados em chips de computadores e smartphones, por exemplo."
+
+-> Função:
+
+* Amplificar a corrente elétrica - os transistores são alimentados por uma baixa corrente elétrica de entrada, amplificando-a e, assim, produzindo uma corrente elétrica de saída com maior intensidade.
+
+* Barrar a passagem de corrente elétrica.
+
+Fonte: https://brasilescola.uol.com.br/fisica/transistor.htm
+
+
+- Os transistores ocupavam milímetros, precisando de bem menos energia que as válvulas;
+
+- Assim foi possível reduzir o tamanho de rádios, equipamentos eletrônicos em geral e computadores.

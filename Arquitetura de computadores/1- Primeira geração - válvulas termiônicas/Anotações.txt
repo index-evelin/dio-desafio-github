@@ -1,0 +1,12 @@
+- Segunda Guerra Mundial;
+- Estados Unidos;
+- ENIAC > primeiro computador eletrônico da história.
+
+* Componentes: 170.000 válvulas termiônicas;
+* Peso: 30 toneladas;
+* Espaço: sala de 50m²;
+* Capacidade de processamento: 1 bilhão de vezes menos que os dos celulares usados hoje em dia.
+
+-> Para evoluirmos até os computadores atuais, foi preciso substituir as válvulas, já que elas eram pesadas e espaçosas.
+
+-> O QUE TORNOU ISSO POSSÍVEL? - O transistor, cuja criação iniciou a era da microeletrônica.

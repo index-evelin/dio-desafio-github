@@ -1,0 +1,21 @@
+- Década de 60;
+- CI (Circuito Integrado): pastilhas de silício que contêm um circuito eletrônico miniaturizado;
+	-> "Chip de computador".
+
+	TRANSISTORES + CI = computadores menores e mais baratos. Em meados da década de 70, houve a eclosão dos Computadores Pessoais.
+	-> PC: Personal Computer.
+
+-> Duas famosas empresas do setor, surgiram nesse período:
+
+* MICROSOFT CORPORATION (1975)
+- maior faturamento em programas de computadores;
+- conhecida pelo sistema operacional Windows e pelo pacote de ferramentas Office;
+- EUA;
+- Bill Gates e Paul Allen.
+
+* APPLE INC. (1976)
+- vendeu 200 unidades do seu primeiro PC, o Apple I;
+- no ano seguinte o Apple II vendeu milhares de unidades;
+- abriu seu capital na bolsa de valores de Nova York;
+- EUA;
+- Steve Jobs.

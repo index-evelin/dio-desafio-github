@@ -1,0 +1,16 @@
+	HARDWARE:
+
+- Componentes físicos; o que pode ser visto e tocado;
+
+	Se você tentar se conectar à internet em um computador sem placa de rede, não conseguirá; isso porque falta o HARDWARE responsável por dar uma capacidade de conexão à internet: a placa de rede.
+
+- O computador só consegue executar programas se tiver o Hardware necessário para tal.
+
+* PRINCIPAIS COMPONENTES DE HARDWARE:
+
+- Processador: CPU (Unidade Central de Processamento) é o cerebro do computador; recebe e executa as instruções sequencialmente. Seu principal componente é a unidade lógica e aritmética, responssável por operações como adicionar e subtrair.
+- A execuçaõ das instruções é regulada pela presença de um pulso de ferquência constante denominada CLOCK, que é medido em HERTZ (Hz) - número de pulsos por segundo.
+
+	-> OVERCLOCKING: é o processo para customizar a velocidade do clock do processador acima de sua frequência de uso normal. Tal prática deixa o computador mais rápido, mas ha certos riscos envolvidos, como danos ao processador e sobreaquecimento.
+
+- O aumento do clock cada geração de processadores seguiu ao longo dos anos, até haverem interferências físicas entre seus componentes, ficou inviável a continuação desse procedimento. A solução foi colocar diversos microprocessadores (chamados de NÚCLEOS) dentro de um mesmo chip de processador. É como se houvessem dois, quatro ou até mais processadores trabalhando em um mesmo chip.
